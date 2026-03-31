@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Z Explorer",
+    "slug": "z-explorer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
